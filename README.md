@@ -1,2 +1,3 @@
-# basicbankingsystem-main-2-
-Developed using php . Don't use chrome for better experience use other browsers . To see the website visit https://bbssuhas09.000webhostapp.com/
+# Basic Banking System
+Basic banking system website using html css bootstrap for front end, Php for backend and phpmyadmin sql for database.
+Website hosted using 000webhost at dbw07.000webhostapp.com
